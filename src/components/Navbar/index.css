@@ -1,0 +1,51 @@
+.navbarbg {
+  background-color: black;
+  color: white;
+
+  padding: 10px;
+}
+.brand-logo {
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: 200;
+  line-height: 28.34px;
+  letter-spacing: 0.55em;
+  text-align: left;
+  color: #e5dfd9;
+}
+
+.navbar-1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.spec {
+  color: white;
+}
+.spec:hover {
+  font-weight: 600;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.navbar-2 {
+  display: flex;
+  justify-content: center;
+}
+.navbar-3 {
+  display: flex;
+  justify-content: space-between;
+}
+.links {
+  font-family: Encode Sans;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17.5px;
+  letter-spacing: 0.1em;
+  margin-right: 35px;
+}
+.links:hover {
+  font-weight: 600;
+  font-size: 18px;
+  cursor: pointer;
+}

@@ -1,0 +1,33 @@
+.price-align {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.tag {
+  position: absolute;
+  margin: 10px;
+}
+.card-bg {
+  width: 20%;
+  border-radius: 10px;
+  background-color: transparent;
+  color: white;
+  margin: 30px;
+  /* padding: 10px; */
+}
+.card-bg:hover {
+  color: skyblue;
+}
+.card-img {
+  /* width: 25%; */
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.offer {
+  color: rgb(30, 205, 30);
+}
+.price {
+  font-size: 25px;
+  font-weight: 500;
+}
